@@ -51,5 +51,3 @@ Ansible, Terraform
 - Website: https://synapptech.dev  
 
 ---
-
-Most of my work lives in public repositories and real systems — not demos.
